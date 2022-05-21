@@ -1,0 +1,4 @@
+﻿using kc;
+
+CodeHelper.Init();
+
